@@ -1,0 +1,4 @@
+- Hi all, I’m @stevreed;
+- CompSci student and instructional assistant at Portland State University;
+- Currently learning data structures, OOP, and computer graphics (C++ && Python);
+- Contact info = "stevreed@pdx.edu";
